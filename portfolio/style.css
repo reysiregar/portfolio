@@ -1,5 +1,5 @@
 /* global */
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Times');
 
 .grid-2{
     display: grid;
@@ -9,13 +9,13 @@
 body{
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Times', serif;
     background-color: #101214;
     color: #7A7C80;
 
 }
 
-h2,.white{
+h1,.white{
     color: #fff;
 }
 
@@ -35,7 +35,7 @@ a{
     margin:0;
 }
 
-.section-1 h2{
+.section-1 h1{
     font-size: 1.7rem;
     margin-bottom: 10px;
 }
@@ -50,7 +50,7 @@ a{
     width: 70%;
 }
 
-.section-2 h2{
+.section-2 h1{
     font-size: 1.7rem;
     margin-bottom: 10px;
 }
