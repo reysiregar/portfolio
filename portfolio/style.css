@@ -64,7 +64,7 @@ a{
 .section-3 p{
     font-size: 1.0rem;
     color: #fff;
-    padding-top: 50px;
+    padding-top: 30px;
     margin:0;
 }
 
@@ -125,6 +125,6 @@ a{
 footer {
     position: relative;
     background-color: #192531;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
     text-align: center;
 }
