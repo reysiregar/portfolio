@@ -101,3 +101,9 @@ a{
         padding-top: 2rem;
     }
 }
+
+footer {
+    background-color: #162842;
+    padding: 20px;
+    text-align: center;
+}
