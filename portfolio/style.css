@@ -63,9 +63,9 @@ a{
 
 .section-2 a{
     display: block;
-    padding: 5px;
+    padding: 0;
     font-size: 1.1rem;
-    width: 100px;
+    margin:0;
 }
 /* animations / utilities */
 .section-2 a:hover{
