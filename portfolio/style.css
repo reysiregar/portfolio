@@ -123,7 +123,8 @@ a{
     }
 }
 footer {
+    position: relative;
     background-color: #192531;
-    padding: 30px;
+    padding-bottom: 20px;
     text-align: center;
 }
