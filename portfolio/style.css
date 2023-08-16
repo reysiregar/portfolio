@@ -15,7 +15,7 @@ body{
 
 }
 
-h1,.white{
+h2,.white{
     color: #fff;
 }
 
@@ -50,7 +50,7 @@ a{
     width: 70%;
 }
 
-.section-2 h1{
+.section-2 h2{
     font-size: 1.7rem;
     margin-bottom: 10px;
 }
@@ -69,8 +69,8 @@ a{
 }
 /* animations / utilities */
 .section-2 a:hover{
-    font-size: 1.2rem;
-    color: #fff;
+    font-size: 1.1rem;
+    color: #5da1ee;
     cursor: pointer;
     transition: 0.2s;
 }
@@ -83,7 +83,7 @@ a{
 
 .white:hover{
     position: relative;
-    padding-inline-start: 5px;
+    padding-left: 10px;
 }
 
 /* media queres */
