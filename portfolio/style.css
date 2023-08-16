@@ -15,7 +15,7 @@ body{
 
 }
 
-h2,.white{
+h1,.white{
     color: #fff;
 }
 
@@ -63,10 +63,9 @@ a{
 
 .section-2 a{
     display: block;
-    padding: 5px;
     font-size: 1.1rem;
-    padding-right: 0;
-    width: 100px;
+    padding: 0;
+    margin:0;
 }
 /* animations / utilities */
 .section-2 a:hover{
