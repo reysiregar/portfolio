@@ -63,7 +63,7 @@ a{
 
 .section-3 p{
     font-size: 1.0rem;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     margin:0;
 }
 
@@ -123,6 +123,6 @@ a{
 }
 footer {
     background-color: #101214;
-    padding: 60px;
+    padding: 100px;
     text-align: center;
 }
