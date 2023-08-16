@@ -61,13 +61,33 @@ a{
     margin:0;
 }
 
+.section-3 p{
+    font-size: 1.0rem;
+    padding-bottom: 10px;
+    margin:0;
+}
+
 .section-2 a{
     padding: 0;
     font-size: 1.1rem;
     color: #5da1ee;
     margin:0;
 }
+
+.section-3 a{
+    padding: 0;
+    font-size: 1.0rem;
+    color: #5da1ee;
+    margin:0;
+}
 /* animations / utilities */
+.section-3 a:hover{
+    font-size: 1.0rem;
+    color: #5da1ee;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
 .section-2 a:hover{
     font-size: 1.1rem;
     color: #5da1ee;
@@ -101,9 +121,8 @@ a{
         padding-top: 2rem;
     }
 }
-
 footer {
-    background-color: #7A7C80;
-    padding: 100px;
+    background-color: #101214;
+    padding: 5px;
     text-align: center;
 }
