@@ -64,6 +64,7 @@ a{
 .section-2 a{
     padding: 0;
     font-size: 1.1rem;
+    color: #5da1ee;
     margin:0;
 }
 /* animations / utilities */
@@ -82,7 +83,7 @@ a{
 
 .white:hover{
     position: relative;
-    padding-right: 10px;
+    padding-inline-start: 5px;
 }
 
 /* media queres */
