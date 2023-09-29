@@ -122,11 +122,11 @@ a{
         padding-top: 2rem;
     }
 }
+
 footer {
     display: table;
-    background-color: #101214;
-    padding-bottom: 20px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    background-color: #101214;
 }
