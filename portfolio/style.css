@@ -123,8 +123,10 @@ a{
     }
 }
 footer {
-    position: relative;
+    display: table;
     background-color: #101214;
     padding-bottom: 20px;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
